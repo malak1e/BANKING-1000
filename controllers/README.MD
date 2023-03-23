@@ -1,6 +1,6 @@
 # BANKING-API-1000
 
-## A RESTful API for a banking server that persists data in a database, _should_ handle 1000 concurrent requests per second WITHOUT getting race conditions, and includes automated tests.
+## A RESTful API for a banking server that persists data in a database, _should_ handle 1000 concurrent requests per second WITHOUT getting race conditions, and includes automated tests using JEST.
 
 ## How to set up locally.
 
